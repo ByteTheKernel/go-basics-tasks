@@ -1,5 +1,7 @@
 # Основы Go — 10 практических заданий
 
+[![Go CI](https://github.com/ByteTheKernel/go-basics-tasks/actions/workflows/go.yml/badge.svg)](https://github.com/ByteTheKernel/go-basics-tasks/actions/workflows/go.yml)
+
 Учебная работа по дисциплине «Семинар наставника».
 
 Выполнил: Орешко Владислав
